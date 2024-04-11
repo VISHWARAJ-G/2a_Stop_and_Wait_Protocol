@@ -41,5 +41,5 @@ while True:
 ![alt text](<Screenshot (273)-1.png>)
 ## SERVER:
 ![alt text](<Screenshot (272).png>)
-## RESULT
+## RESULT :
 Thus, python program to perform stop and wait protocol was successfully executed.
